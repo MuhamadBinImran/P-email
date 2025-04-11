@@ -25,7 +25,7 @@ This project aims to combat phishing attacks by developing an intelligent email 
 - 📈 Scalable, reliable, and user-focused solution for email security.  
 
 ## 👥 Authors
-- **Saad Nadeem**  
+- **Muhammad Bin Imran**  
 - **Saad Habib**  
 - **Abdul Basit**  
 - **Talha Rauf**  
